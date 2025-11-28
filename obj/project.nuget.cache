@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8mggyxNSSM=",
+  "dgSpecHash": "4rL67WoevaI=",
   "success": true,
-  "projectFilePath": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
+  "projectFilePath": "D:\\Plugins SCP SL\\BAR\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артем Dev\\.nuget\\packages\\exmod.exiled\\9.10.2\\exmod.exiled.9.10.2.nupkg.sha512",
     "C:\\Users\\Артем Dev\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512"

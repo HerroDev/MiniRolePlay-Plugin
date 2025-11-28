@@ -172,11 +172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
+      "projectUniqueName": "D:\\Plugins SCP SL\\BAR\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
       "projectName": "MiniRolePlay-Plugin",
-      "projectPath": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
+      "projectPath": "D:\\Plugins SCP SL\\BAR\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
       "packagesPath": "C:\\Users\\Артем Dev\\.nuget\\packages\\",
-      "outputPath": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\obj\\",
+      "outputPath": "D:\\Plugins SCP SL\\BAR\\MiniRolePlay-Plugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артем Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
