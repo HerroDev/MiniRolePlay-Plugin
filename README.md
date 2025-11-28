@@ -1,5 +1,5 @@
 # MiniRolePlay-Plugin
-**MiniRolePlay-Plugin -** 'это небольшой плагин для создания некой нкбольшой базы на RolePlay серверах SCP: SL. 
+**MiniRolePlay-Plugin -** это небольшой плагин для создания некой нкбольшой базы на RolePlay серверах SCP: SL. 
 
 **Создано для бара "ПИВО"**
 
