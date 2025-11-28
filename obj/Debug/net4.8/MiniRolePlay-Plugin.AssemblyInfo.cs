@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniRolePlay-Plugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28905e93b8b70af876a9c54f6ed5fce7117d5f71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fafc8ae8900314a0d5d77831e416705819f566ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniRolePlay-Plugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniRolePlay-Plugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

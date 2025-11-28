@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = MiniRolePlay-Plugin
-build_property.ProjectDir = d:\Plugins SCP SL\BAR\MiniRolePlay-Plugin\
+build_property.ProjectDir = D:\Plugins SCP SL\BAR\MiniRolePlay-Plugin\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

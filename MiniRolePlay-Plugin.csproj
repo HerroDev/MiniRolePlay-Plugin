@@ -32,9 +32,6 @@
     <Reference Include="UnityEngine.PhysicsModule">
       <HintPath>../libs/UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
-    <Reference Include="HintServiceMeow-Exiled">
-      <HintPath>../libs/HintServiceMeow-Exiled.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
  <ItemGroup>

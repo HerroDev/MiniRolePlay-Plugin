@@ -23,7 +23,7 @@ namespace MiniRolePlayPlugin.Commands
                 return false;
             }
             string res = "Вы успешно ";
-            string subcommand = arguments.At(0);
+            string subcommand = string.Join(" ", arguments);;
             if(subcommand == "on")
             {
                 Mode = true;
@@ -34,7 +34,8 @@ namespace MiniRolePlayPlugin.Commands
                 res = res + "<color=red>включили спавн МОГ и ПХ</color>";                         
             } else
             {
-                res = "Используйте: disablespawn <on/off>";                
+                response = "Используйте: disablespawn <on/off>";
+                return false;             
             }
             response = res;
             return true;

@@ -24,7 +24,7 @@ namespace MiniRolePlayPlugin.Commands
                 return false;
             }
             string res = "Вы успешно ";
-            string subcommand = arguments.At(0);
+            string subcommand = string.Join(" ", arguments);;
             if(subcommand == "on")
             {
                 teslaMode = true;
@@ -35,7 +35,8 @@ namespace MiniRolePlayPlugin.Commands
                 res = res + "<color=red>отключили тесла ворота</color>";                         
             } else
             {
-                res = "Используйте: tesla <on/off>";                
+                response = "Используйте: tesla <on/off>"; 
+                return false;                 
             }
             response = res;
             return true;
