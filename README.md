@@ -12,7 +12,7 @@ debug: false
 disable_escaping: false
 # Отключить спавн SCP-244B
 disable_spawning_s_c_p244_b: false
-# Начальный статус работы гермоворот
+# Начальный статус работы тесла ворот
 tesla_gates_mode: true
 # Отключить спавн МОГ и ПХ
 disable_spawning_m_t_fand_c_h: false
