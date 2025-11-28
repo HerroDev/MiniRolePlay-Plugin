@@ -3,7 +3,7 @@
 
 **Создано для бара "ПИВО"**
 
-'''
+```
 # Включить плагин
 is_enabled: true
 # Включить debug
@@ -18,8 +18,8 @@ tesla_gates_mode: true
 disable_spawning_m_t_fand_c_h: false
 # Cooldown между .call
 call_cooldown: 15
+```
 
-'''
 
 
 *Discord сервер:* https://discord.gg/t4zvd2FcJR
