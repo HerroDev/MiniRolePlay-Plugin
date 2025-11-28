@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj": {}
+  },
+  "projects": {
+    "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
+        "projectName": "MiniRolePlay-Plugin",
+        "projectPath": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\MiniRolePlay-Plugin.csproj",
+        "packagesPath": "C:\\Users\\Артем Dev\\.nuget\\packages\\",
+        "outputPath": "D:\\Plugins SCP SL\\MiniRolePlay-Plugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Артем Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "ExMod.Exiled": {
+              "target": "Package",
+              "version": "[9.10.2, )"
+            },
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

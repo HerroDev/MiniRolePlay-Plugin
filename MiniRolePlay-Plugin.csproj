@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net4.8</TargetFramework>
+  </PropertyGroup>
+
+ <ItemGroup>
+    <Reference Include="netstandard">
+      <HintPath>../libs/netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>../libs/Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>../libs/Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="CommandSystem.Core">
+      <HintPath>../libs/CommandSystem.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Mirror">
+      <HintPath>../libs/Mirror.dll</HintPath>
+    </Reference>
+    <Reference Include="NorthwoodLib">
+      <HintPath>../libs/NorthwoodLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>../libs/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>../libs/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>../libs/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="HintServiceMeow-Exiled">
+      <HintPath>../libs/HintServiceMeow-Exiled.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+ <ItemGroup>
+   <PackageReference Include="ExMod.Exiled" Version="9.10.2" />
+   <PackageReference Include="Lib.Harmony" Version="2.4.2" />
+ </ItemGroup>
+</Project>
